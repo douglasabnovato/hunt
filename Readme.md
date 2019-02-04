@@ -15,9 +15,11 @@ Aula 1 : Introdução
 
 Aula2 : criando um projeto
 1. configurar ambiente
-2. Emulador : samsung galaxy s7 no Genymotion
-3. máquina virtual
-4. configurando SDK do Android para Windows
+2. máquina virtual : virtual box : incializar a máquina virtual
+3. Emulador : samsung galaxy s7 no Genymotion
+4. gitbash : react-native start : metro bundler
+5. visual studio code
+6. configurando SDK do Android para Windows
 - react-native run-android
 - run : somente para 1ª vez por projeto.
 - metro bundler : tem que estar rodando durante desenvolvimento.
@@ -35,14 +37,24 @@ Aula 5 : Estilização header e StatusBar
 2. headerStyle
 
 Aula 6 : Buscando produto da API
+1. axios
+2. construíndo API
+3. construir API com NodeJS
 
 Aula 7 : Entendendo o estado
+1. estado é um objeto 
+2. podemos armazenar e manipular estados
+3. o objeto possuí variáveis que são atualizadas de forma automática
 
 Aula 8 : Listando produtos
+1. fazer uma lista de dados
 
 Aula 9 : Estilizando lista de produtos
 
 Aula 10 : Scroll infinito com flatlist
+
+Aula 11 : detalhes com webview
+1. exibir conteúdo em uma nova página mas sem sair da nossa aplicação
 
 
 
