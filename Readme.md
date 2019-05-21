@@ -9,7 +9,7 @@
 ![GitHub](/images/logo-github.png)</br>
 ![React Native](/images/logo-react-native.png)
 ![HTML-CSS-JS](/images/logo-html-css-js.jpeg)
-![VSCode](/images/logo-VSCode)
+![VSCode](/images/logo-VSCode.png)
 
 ### SESSÂO
 
