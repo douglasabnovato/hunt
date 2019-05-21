@@ -53,15 +53,16 @@
 3. o objeto possuí variáveis que são atualizadas de forma automática
 
 #### Aula 8. Listando produtos
-1. fazer uma lista de dados
+- Importando informações da API.
 
 #### Aula 9. Estilizando lista de produtos
+- Formatação das informações em elementos.
 
 #### Aula 10. Scroll infinito com flatlist
-- erro : não está carregando o final dos elementos do scroll. 
+- Erro : não está carregando o final dos elementos do scroll. 
 
 #### Aula 11. detalhes com webview
-1. exibir conteúdo em uma nova página mas sem sair da nossa aplicação
+1. exibir conteúdo em uma nova página mas sem sair da nossa aplicação.
 
 :. Do curso `React Native` da Station Rocketseat - Starter.
 Por Diego Fernandes : https://station.rocketseat.com.br/courses/starter
