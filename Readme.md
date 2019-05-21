@@ -21,7 +21,7 @@
 
 #### Aula 2. criando um projeto
 1. configurar ambiente
-2. máquina virtual : virtual box : incializar a máquina virtual
+2. máquina virtual : virtual box : inicializar a máquina virtual samsung galaxy s7
 3. Emulador : samsung galaxy s7 no Genymotion
 4. gitbash : react-native start : metro bundler
 5. visual studio code
@@ -58,9 +58,10 @@
 #### Aula 9. Estilizando lista de produtos
 
 #### Aula 10. Scroll infinito com flatlist
+- erro : não está carregando o final dos elementos do scroll. 
 
 #### Aula 11. detalhes com webview
 1. exibir conteúdo em uma nova página mas sem sair da nossa aplicação
 
 :. Do curso `React Native` da Station Rocketseat - Starter.
-Por Diego Fernandes : https://station.rocketseat.com.br
+Por Diego Fernandes : https://station.rocketseat.com.br/courses/starter
