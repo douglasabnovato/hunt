@@ -1,12 +1,12 @@
 # React Native
 
-## Atualização: 21 de maio de 2019 - 15:57
+## Atualização: 21 de maio de 2019 - 15:57 - done
 ## Criação: 20 de dezembro de 2018
 ## Prática : @douglasabnovato
 
 ![Rocketseat](/images/logo-rocketseat.png)
 ![Git](/images/logo-git.png)
-![GitHub](/images/logo-github.png)</br>
+![GitHub](/images/logo-github.png)
 ![React Native](/images/logo-react-native.png)
 ![HTML-CSS-JS](/images/logo-html-css-js.jpeg)
 ![VSCode](/images/logo-VSCode.png)
