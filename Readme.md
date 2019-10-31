@@ -13,7 +13,7 @@
 
 ### SESSÃO
 
-#### Aula 1. Introdução
+#### Aula 1. O que é react native
 - biblioteca react native
 - ferramenta usando javascript para mobile 
 - interface nativa
@@ -30,9 +30,16 @@
 - `react-native run-android`
 - run : somente para 1ª vez por projeto.
 - `metro bundler` : tem que estar rodando durante desenvolvimento.
-- `react-native start` : running metro bundler 
+- `react-native start` : running metro bundler para trabalhar nas próximas vezes
+7. estrutura de pastas da aplicação **React Native**
+- pasta `android` e pasta `ios`
+- pasta `node_modules` : dependências
+- arquivo `babelrc`
+- arquivo `buck`
+- arquivo `flow`
+- arquivo `app.json`: exibição da aplicação, desenvolvedor e usuário final
 
-#### Aula 3. componentes
+#### Aula 3. o que são componentes 
 1. props
 2. arquitetura : visualização/lógica/estilização
 
