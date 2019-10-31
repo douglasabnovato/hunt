@@ -1,6 +1,6 @@
 # React Native
 
-## Atualização: 21 de maio de 2019 - 15:57 - done
+## Atualização: 31 de outubro de 2019 - 18:02
 ## Criação: 20 de dezembro de 2018
 ## Prática : @douglasabnovato
 
@@ -11,7 +11,7 @@
 ![HTML-CSS-JS](/images/logo-html-css-js.jpeg)
 ![VSCode](/images/logo-VSCode.png)
 
-### SESSÂO
+### SESSÃO
 
 #### Aula 1. Introdução
 - biblioteca react native
@@ -20,10 +20,11 @@
 - iOS e Android
 
 #### Aula 2. criando um projeto
+`react-native -v`: exibe a versão atual na máquina<br>
 1. configurar ambiente
 2. máquina virtual : virtual box : inicializar a máquina virtual samsung galaxy s7
 3. Emulador : samsung galaxy s7 no Genymotion
-4. gitbash : react-native start : metro bundler
+4. gitbash : `react-native start` : metro bundler
 5. visual studio code
 6. configurando SDK do Android para Windows
 - react-native run-android
