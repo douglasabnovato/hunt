@@ -44,11 +44,11 @@
 - arquivo `yarn.lock`: cache das dependências que instalamos.
 
 #### Aula 3. o que são componentes 
-1. props
-2. arquitetura : visualização/lógica/estilização
+1. Componentização : arquitetura : separar o código da aplicação: visualização, lógica, estilização.
+2. Componente : um componente por arquivo.
 
 #### Aula 4. configurando navegação
-1. react-navigation : navigação por botão
+1. `react-navigation` : navigação por botão
 
 #### Aula 5. Estilização header e StatusBar
 1. navegationOptions
