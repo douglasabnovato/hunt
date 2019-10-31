@@ -38,6 +38,10 @@
 - arquivo `buck`
 - arquivo `flow`
 - arquivo `app.json`: exibição da aplicação, desenvolvedor e usuário final
+- arquivo `index.js`: arquivo introdutório da aplicação.
+- arquivo `App.js`: arquivo inicial
+- arquivo `package.json`: dependências da nossa aplicação
+- arquivo `yarn.lock`: cache das dependências que instalamos.
 
 #### Aula 3. o que são componentes 
 1. props
