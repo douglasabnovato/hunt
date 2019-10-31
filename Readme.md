@@ -6,7 +6,7 @@
 
 ![Rocketseat](/images/logo-rocketseat.png)
 ![Git](/images/logo-git.png)
-![GitHub](/images/logo-github.png)
+![GitHub](/images/logo-github.png) 
 ![React Native](/images/logo-react-native.png)
 ![HTML-CSS-JS](/images/logo-html-css-js.jpeg)
 ![VSCode](/images/logo-VSCode.png)
@@ -27,10 +27,10 @@
 4. gitbash : `react-native start` : metro bundler
 5. visual studio code
 6. configurando SDK do Android para Windows
-- react-native run-android
+- `react-native run-android`
 - run : somente para 1ª vez por projeto.
-- metro bundler : tem que estar rodando durante desenvolvimento.
-- react-native start : running metro bundler 
+- `metro bundler` : tem que estar rodando durante desenvolvimento.
+- `react-native start` : running metro bundler 
 
 #### Aula 3. componentes
 1. props
