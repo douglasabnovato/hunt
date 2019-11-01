@@ -48,16 +48,19 @@
 2. Componente : um componente por arquivo.
 
 #### Aula 4. configurando navegação
-1. `react-navigation` : navigação por botão
+1. `yarn add react-navigation` : navigação por botão
+2. organização da estrutura de pastas do projeto
 
 #### Aula 5. Estilização header e StatusBar
-1. navegationOptions
-2. headerStyle
+1. `navegationOptions`
+2. `headerStyle`
+3. `statusbar`
 
 #### Aula 6. Buscando produto da API
-1. axios
+1. `axios`: biblioteca
 2. construíndo API
 3. construir API com NodeJS
+4. NodeJS API: `insomnia`
 
 #### Aula 7. Entendendo o estado
 1. estado é um objeto 
