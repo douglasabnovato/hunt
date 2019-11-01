@@ -68,16 +68,20 @@
 3. o objeto possuí variáveis que são atualizadas de forma automática
 
 #### Aula 8. Listando produtos
+- `Flatlist`: componente para exibir em forma de lista
+- `TouchableOpacity`: no ato de clicar, aplica efeito
 - Importando informações da API.
 
 #### Aula 9. Estilizando lista de produtos
 - Formatação das informações em elementos.
 
 #### Aula 10. Scroll infinito com flatlist
-- Erro : não está carregando o final dos elementos do scroll. 
+- `scrooll infinito`: erro : não carregando a segunda parte 
 
 #### Aula 11. detalhes com webview
 1. exibir conteúdo em uma nova página mas sem sair da nossa aplicação.
+
+Aplicação com React Native terminada. Utilizado navegação, criado duas páginas, stateless component react native, componentes em classes, consumo de API Rest, FlastList, scroll infinito, estilização. 
 
 :. Do curso `React Native` da Station Rocketseat - Starter.
 Por Diego Fernandes : https://station.rocketseat.com.br/courses/starter

@@ -31,9 +31,9 @@ export default class Main extends Component{
 
     loadMore = () => {
         const { page, productInfo } = this.state;
-        if (page == productInfo.pages) return;
+        if (page === productInfo.pages) return;
         const pageNumber = page + 1;
-        this.loadProducts
+        this.loadProducts(pageNumber);
     };
 
     renderItem = ({ item }) => (
