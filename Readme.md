@@ -1,8 +1,8 @@
-# React Native
+## React Native
 
-## Atualização: 31 de outubro de 2019 - 18:02
-## Criação: 20 de dezembro de 2018
-## Prática : @douglasabnovato
+#### Atualização: 31 de outubro de 2019 - 18:02
+#### Criação: 20 de dezembro de 2018
+#### Prática : @douglasabnovato
 
 ![Rocketseat](/images/logo-rocketseat.png)
 ![Git](/images/logo-git.png)
@@ -14,18 +14,22 @@
 ### SESSÃO
 
 #### Aula 1. O que é react native
-- biblioteca react native
-- ferramenta usando javascript para mobile 
-- interface nativa
-- iOS e Android
+
+- [x] 1.1. biblioteca react native
+- [x] 1.2. ferramenta usando javascript para mobile 
+- [x] 1.3. interface nativa
+- [x] 1.4. iOS e Android
 
 #### Aula 2. criando um projeto
-`react-native -v`: exibe a versão atual na máquina<br>
-1. configurar ambiente
-2. máquina virtual : virtual box : inicializar a máquina virtual samsung galaxy s7
-3. Emulador : samsung galaxy s7 no Genymotion
-4. gitbash : `react-native start` : metro bundler
-5. visual studio code
+
+- [x] 2.1. `react-native -v`: exibe a versão atual na máquina
+- [x] 2.2. configurar ambiente
+- [x] 2.2.1. `react-native init hunt`
+- [x] 2.2.2. máquina virtual : virtual box : inicializar a máquina virtual samsung galaxy s7
+- [x] 2.2.3. Emulador : samsung galaxy s7 no Genymotion
+- [x] 2.2.4. gitbash : `react-native start` : metro bundler
+- [x] 2.2.5. visual studio code
+
 6. configurando SDK do Android para Windows
 - `react-native run-android`
 - run : somente para 1ª vez por projeto.
