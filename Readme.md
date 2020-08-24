@@ -20,7 +20,7 @@
 - [x] 1.3. interface nativa
 - [x] 1.4. iOS e Android
 
-#### Aula 2. criando um projeto
+#### Aula 2. Criando um projeto
 
 - [x] 2.1. `react-native -v`: exibe a versão atual na máquina
 - [x] 2.2. configurar ambiente
@@ -29,23 +29,22 @@
 - [x] 2.2.3. Emulador : samsung galaxy s7 no Genymotion
 - [x] 2.2.4. gitbash : `react-native start` : metro bundler
 - [x] 2.2.5. visual studio code
-
-6. configurando SDK do Android para Windows
-- `react-native run-android`
-- run : somente para 1ª vez por projeto.
-- `metro bundler` : tem que estar rodando durante desenvolvimento.
-- `react-native start` : running metro bundler para trabalhar nas próximas vezes
-7. estrutura de pastas da aplicação **React Native**
-- pasta `android` e pasta `ios`
-- pasta `node_modules` : dependências
-- arquivo `babelrc`
-- arquivo `buck`
-- arquivo `flow`
-- arquivo `app.json`: exibição da aplicação, desenvolvedor e usuário final
-- arquivo `index.js`: arquivo introdutório da aplicação.
-- arquivo `App.js`: arquivo inicial
-- arquivo `package.json`: dependências da nossa aplicação
-- arquivo `yarn.lock`: cache das dependências que instalamos.
+- [x] 2.2.6. configurando SDK do Android para Windows
+- [x] 2.2.6.1.`react-native run-android`
+- [x] 2.2.6.2.run : somente para 1ª vez por projeto.
+- [x] 2.2.6.3.`metro bundler` : tem que estar rodando durante desenvolvimento.
+- [x] 2.2.6.4.`react-native start` : running metro bundler para trabalhar nas próximas vezes
+- [x] 2.3. estrutura de pastas da aplicação **React Native**
+- [x] 2.3.1. pasta `android` e pasta `ios`
+- [x] 2.3.2. pasta `node_modules` : dependências
+- [x] 2.3.3. arquivo `babelrc`
+- [x] 2.3.4. arquivo `buck`
+- [x] 2.3.5. arquivo `flow`
+- [x] 2.3.6. arquivo `app.json`: exibição da aplicação, desenvolvedor e usuário final
+- [x] 2.3.7. arquivo `index.js`: arquivo introdutório da aplicação.
+- [x] 2.3.8. arquivo `App.js`: arquivo inicial
+- [x] 2.3.9. arquivo `package.json`: dependências da nossa aplicação
+- [x] 2.3.10. arquivo `yarn.lock`: cache das dependências que instalamos.
 
 #### Aula 3. o que são componentes 
 1. Componentização : arquitetura : separar o código da aplicação: visualização, lógica, estilização.
