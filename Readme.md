@@ -13,14 +13,14 @@
 
 ### SESSÃO
 
-#### Aula 1. O que é react native
+#### 1. O que é react native
 
-- [x] 1.1. biblioteca react native
-- [x] 1.2. ferramenta usando javascript para mobile 
+- [x] 1.1. biblioteca react native : Javascript para criar aplicação mobile.
+- [x] 1.2. O código javascript é entendido.
 - [x] 1.3. interface nativa
 - [x] 1.4. iOS e Android
 
-#### Aula 2. Criando um projeto
+#### 2. Criando um projeto
 
 - [x] 2.1. `react-native -v`: exibe a versão atual na máquina
 - [x] 2.2. configurar ambiente
@@ -46,45 +46,56 @@
 - [x] 2.3.9. arquivo `package.json`: dependências da nossa aplicação
 - [x] 2.3.10. arquivo `yarn.lock`: cache das dependências que instalamos.
 
-#### Aula 3. o que são componentes 
-1. Componentização : arquitetura : separar o código da aplicação: visualização, lógica, estilização.
-2. Componente : um componente por arquivo.
+#### 3. o que são componentes 
 
-#### Aula 4. configurando navegação
-1. `yarn add react-navigation` : navigação por botão
-2. organização da estrutura de pastas do projeto
+- [x] 3.1. Componentização : arquitetura : separar o código da aplicação: visualização, lógica, estilização.
+- [x] 3.2. Componente : um componente por arquivo.
 
-#### Aula 5. Estilização header e StatusBar
-1. `navegationOptions`
-2. `headerStyle`
-3. `statusbar`
+#### 4. configurando navegação
 
-#### Aula 6. Buscando produto da API
-1. `axios`: biblioteca
-2. construíndo API
-3. construir API com NodeJS
-4. NodeJS API: `insomnia`
+- [x] 4.1. `yarn add react-navigation` : navigação por botão
+- [x] 4.2. organização da estrutura de pastas do projeto
 
-#### Aula 7. Entendendo o estado
-1. estado é um objeto 
-2. podemos armazenar e manipular estados
-3. o objeto possuí variáveis que são atualizadas de forma automática
+#### 5. Estilização header e StatusBar
 
-#### Aula 8. Listando produtos
-- `Flatlist`: componente para exibir em forma de lista
-- `TouchableOpacity`: no ato de clicar, aplica efeito
-- Importando informações da API.
+- [x] 5.1. `navegationOptions`
+- [x] 5.2. `headerStyle`
+- [x] 5.3. `statusbar`
 
-#### Aula 9. Estilizando lista de produtos
-- Formatação das informações em elementos.
+#### 6. Buscando produto da API
 
-#### Aula 10. Scroll infinito com flatlist
-- `scrooll infinito`: erro : não carregando a segunda parte 
+- [x] 6.1. `axios`: biblioteca
+- [x] 6.2. construíndo API
+- [x] 6.3. construir API com NodeJS
+- [x] 6.4. NodeJS API: `insomnia`
 
-#### Aula 11. detalhes com webview
-1. exibir conteúdo em uma nova página mas sem sair da nossa aplicação.
+#### 7. Entendendo o estado
+
+- [x] 7.1. estado é um objeto 
+- [x] 7.2. podemos armazenar e manipular estados
+- [x] 7.3. o objeto possuí variáveis que são atualizadas de forma automática
+
+#### 8. Listando produtos
+
+- [x] 8.1. `Flatlist`: componente para exibir em forma de lista
+- [x] 8.2. `TouchableOpacity`: no ato de clicar, aplica efeito
+- [x] 8.3. Importando informações da API.
+
+#### 9. Estilizando lista de produtos
+
+- [x] 9.1.Formatação das informações em elementos.
+
+#### 10. Scroll infinito com flatlist
+
+- [x] 10.1.`scrooll infinito`: ERRO : não carregando a segunda parte 
+
+#### 11. detalhes com webview
+
+- [x] 11.1. exibir conteúdo em uma nova página mas sem sair da nossa aplicação.
+
+#### Encerramento 
 
 Aplicação com React Native terminada. Utilizado navegação, criado duas páginas, stateless component react native, componentes em classes, consumo de API Rest, FlastList, scroll infinito, estilização. 
 
-:. Do curso `React Native` da Station Rocketseat - Starter.
-Por Diego Fernandes : https://station.rocketseat.com.br/courses/starter
+Por @douglasabnovato <br/>
+:. De Diego Fernandes [`React Native` - Rocketseat - Starter](https://station.rocketseat.com.br/courses/starter)
