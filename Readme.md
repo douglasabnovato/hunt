@@ -13,6 +13,8 @@
 
 ### SESSÃO
 
+O objetivo desse projeto é acessar uma biblioteca e exibir essas informações na tela com react native.
+
 #### 1. O que é react native
 
 - [x] 1.1. biblioteca react native : Javascript para criar aplicação mobile.
@@ -68,6 +70,8 @@
 - [x] 6.2. construíndo API
 - [x] 6.3. construir API com NodeJS
 - [x] 6.4. NodeJS API: `insomnia`
+- [x] 6.5. URL da API : `https://rocketseat-node.herokuapp.com/api`
+- [x] 6.6. products: id, title, description, url, ( createdAd, mas não será usada ) 
 
 #### 7. Entendendo o estado
 
