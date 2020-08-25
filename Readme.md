@@ -1,6 +1,6 @@
 ## React Native
 
-#### Atualização: 31 de outubro de 2019 - 18:02
+#### Atualização: 25 de agosto de 2020 - 18:42
 #### Criação: 20 de dezembro de 2018
 #### Prática : @douglasabnovato
 
