@@ -91,7 +91,7 @@ O objetivo desse projeto é acessar uma biblioteca e exibir essas informações 
 
 #### 10. Scroll infinito com flatlist
 
-- [x] 10.1.`scrooll infinito`: ERRO : não carregando a segunda parte 
+- [x] 10.1.`scrooll infinito`: **ERRO** : não carregando a segunda parte 
 
 #### 11. detalhes com webview
 
@@ -99,7 +99,10 @@ O objetivo desse projeto é acessar uma biblioteca e exibir essas informações 
 
 #### Encerramento 
 
-Aplicação com React Native terminada. Utilizado navegação, criado duas páginas, stateless component react native, componentes em classes, consumo de API Rest, FlastList, scroll infinito, estilização. 
+**Features dessa aplicação**: Navegação, duas páginas, stateless component react native, componentes em classes, consumo de API Rest, FlastList, scroll infinito, estilização. 
+
+**Problemas com o ambiente**: o emulador não está visualizando aplicação.
+Testado também com android studio.
 
 Por @douglasabnovato <br/>
 :. De Diego Fernandes [`React Native` - Rocketseat - Starter](https://station.rocketseat.com.br/courses/starter)
